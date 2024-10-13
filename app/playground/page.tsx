@@ -1,9 +1,7 @@
-import { Button } from "@/components/ui/button"
-
-export default function Page() {
+export default function PlaygroundPage() {
   return (
     <div>
-      <Button>Button</Button>
+      <h1>Components from 'shadcn/ui'</h1>
     </div>
   )
 }
